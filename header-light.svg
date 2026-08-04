@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 150" role="img" aria-label="Srikar Gandikota">
+  <style>
+    .name { font: 600 44px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .sub  { font: 400 17px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #59636e; }
+    .mono { font: 400 13px ui-monospace, "SF Mono", Menlo, Consolas, monospace; fill: #59636e; }
+  </style>
+  <text x="0" y="52" class="name">Srikar Gandikota</text>
+  <text x="0" y="86" class="sub">Computer Science + Linguistics · Georgia Tech</text>
+  <rect x="0" y="104" width="56" height="3" rx="1.5" fill="#8250df"/>
+  <text x="0" y="134" class="mono">builds products end-to-end — from the user problem to the SQL</text>
+</svg>

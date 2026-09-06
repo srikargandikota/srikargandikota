@@ -5,7 +5,7 @@
 
 Most of what's here started as a specific, personal annoyance I decided to build my way out of. Each repo's README covers the design decisions; this page covers where the ideas came from.
 
-### [music-tagger](https://github.com/srikargandikota/music-tagger) · React Native, Node/TypeScript, Postgres
+### [playlister](https://github.com/srikargandikota/playlister) · React Native, Node/TypeScript, Postgres
 
 A full-stack Spotify companion app. The idea came from watching my own playlists rot: I'd build "study vibes" in September and abandon it by November, because a playlist freezes a mood in time. The way I actually think about music is in tags (chill, hype, late-night), and those don't expire. So the app lets you tag your library once, then ask for music in something close to plain language: `play chill study` builds a fresh queue of tracks tagged both chill *and* study, while `queue any hype workout` relaxes it to either. The problem I enjoyed most was designing the small command grammar and compiling it down to a single parameterized SQL query.
 

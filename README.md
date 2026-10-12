@@ -5,7 +5,7 @@
 
 Most of what is here started as a specific problem in my own routine that I decided to build my way out of, and each repo's README goes through the design decisions, so this page covers where the ideas came from and what I took away from them. I have ordered the projects by impact.
 
-### [spendwise](https://github.com/srikargandikota/spendwise) · Java, Android, Firebase · team of 5
+### [spendwise](https://github.com/srikargandikota/spendwise) · Java, Android, Firebase
 
 SpendWise is a personal finance app for Android that I built with four teammates over a full semester, and it grew from a login screen and some placeholder pages into an app with an expense log, category budgets, group savings circles, spending charts, budget notifications, and an AI chatbot. My part of it was the expense log, the budgets page, and the calendar date selection that both of them run on, and later the profile page with its user statistics. I also wrote the unit tests that kept each piece from breaking whenever someone else merged. We ran everything through Jira and pull requests. By the end the repo had more than 150 of them, and a lot of my time went into reviewing teammates' work and making sure our pieces actually fit together; I learned that most of the work on a team product happens between the features rather than inside them.
 
